@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+Never gonna give you up, never gonna let you down.
+Computer networks are fun to learn and experiment with.
+Socket programming lets us build communication tools from scratch.
+Keep it simple, keep it working, keep it correct.
